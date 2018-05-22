@@ -1,0 +1,4 @@
+﻿  MainDriver.cpp
+e:\all files\programs\c++\extracredit2\extracredit2\maindriver.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ExtraCredit2.vcxproj -> E:\All Files\Programs\C++\ExtraCredit2\Debug\ExtraCredit2.exe
+  ExtraCredit2.vcxproj -> E:\All Files\Programs\C++\ExtraCredit2\Debug\ExtraCredit2.pdb (Partial PDB)
